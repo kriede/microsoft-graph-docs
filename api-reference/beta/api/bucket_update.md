@@ -44,9 +44,7 @@ If-Match: W/"JzEtMDAwMDAwMDAwMDAwMDAwOC8yMDE1LTEwLTIyVDE4OjExOjU2LjExMzU1NDYrMDA
 
 {
   "name": "name-value",
-  "planId": "planId-value",
   "orderHint": "orderHint-value",
-  "id": "id-value"
 }
 ```
 ##### Response
